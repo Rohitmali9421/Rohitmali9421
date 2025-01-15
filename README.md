@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Java DSA**
 
 - 👨‍💻 All of my projects are available at [https://rohitmali.vercel.app](https://rohitmali.vercel.app)
 
