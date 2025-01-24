@@ -1,6 +1,4 @@
-<div align="center">
-  <img alt="Profile Header" src="https://d36zjyy50kn5xn.cloudfront.net/banner-dark.svg" width="100%">
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
