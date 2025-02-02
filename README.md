@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java DSA**
 
-- 👨‍💻 All of my projects are available at [https://rohitmali.vercel.app](https://rohitmali.vercel.app)
+- 👨‍💻 All of my projects are available at [rohitmali.tech](https://rohitmali.tech)
 
 - 💬 Ask me about **MERN**
 
