@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img alt="Profile Header" src="Hero.svg" width="100%">
+</div>
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
